@@ -1,5 +1,5 @@
 {
-  "name": "eslint-angular-config",
+  "name": "@tapsellorg/eslint-angular-config",
   "version": "1.0.0",
   "description": "This is an Eslint config that used for all front-end projects in Tapsell company.",
   "main": "index.js",
@@ -40,5 +40,8 @@
     "@angular-eslint/eslint-plugin-template": "0.1.0-beta.1",
     "@angular-eslint/schematics": "0.1.0-beta.1",
     "@angular-eslint/template-parser": "0.1.0-beta.1"
+  },
+  "publishConfig":{
+    "access": "public"
   }
 }
