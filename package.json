@@ -1,5 +1,5 @@
 {
-  "name": "@tapsellorg/eslint-angular-config",
+  "name": "@tapsellorg/eslint-config",
   "version": "1.0.0",
   "description": "This is an Eslint config that used for all front-end projects in Tapsell company.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tapsellorg/eslint-angular-config.git"
+    "url": "git+https://github.com/tapsellorg/eslint-config.git"
   },
   "keywords": [
     "Eslint",
@@ -17,9 +17,9 @@
   "author": "Tapsell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tapsellorg/eslint-angular-config/issues"
+    "url": "https://github.com/tapsellorg/eslint-config/issues"
   },
-  "homepage": "https://github.com/tapsellorg/eslint-angular-config#readme",
+  "homepage": "https://github.com/tapsellorg/eslint-config#readme",
   "peerDependencies": {
     "prettier": "^2.1.2",
     "typescript": "^4.0.2"

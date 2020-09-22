@@ -1,5 +1,5 @@
 module.exports = {
     "extends": [
-      "./rules/main.js",
+      "./rules/angular.js",
     ]
 }
