@@ -1,0 +1,44 @@
+{
+  "name": "eslint-angular-config",
+  "version": "1.0.0",
+  "description": "This is an Eslint config that used for all front-end projects in Tapsell company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapsellorg/eslint-angular-config.git"
+  },
+  "keywords": [
+    "Eslint",
+    "Tapsell"
+  ],
+  "author": "Tapsell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapsellorg/eslint-angular-config/issues"
+  },
+  "homepage": "https://github.com/tapsellorg/eslint-angular-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.2"
+  },
+  "dependencies":{
+    "@typescript-eslint/eslint-plugin": "3.9.0",
+    "@typescript-eslint/parser": "3.9.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-typescript": "^9.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-rxjs": "0.0.2-beta.27",
+    "eslint-plugin-unicorn": "^21.0.0",
+    "@angular-eslint/builder": "0.1.0-beta.1",
+    "@angular-eslint/eslint-plugin": "0.1.0-beta.1",
+    "@angular-eslint/eslint-plugin-template": "0.1.0-beta.1",
+    "@angular-eslint/schematics": "0.1.0-beta.1",
+    "@angular-eslint/template-parser": "0.1.0-beta.1"
+  }
+}
