@@ -1,6 +1,6 @@
 {
   "name": "@tapsellorg/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an Eslint config that used for all front-end projects in Tapsell company.",
   "main": "index.js",
   "scripts": {
